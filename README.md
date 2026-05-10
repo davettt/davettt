@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm David
 
-<!--
-**davettt/davettt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build macOS desktop apps under [Tiong Creative](https://tiongcreative.com.au). After 20+ years in digital areas including technical support, team management, and helping small businesses with their web presence, I started building the tools I'd always wished existed.
 
-Here are some ideas to get you started:
+My focus is on software that's calm, private, and useful. No subscriptions, no accounts, no cloud dependency. One-time purchase, runs locally on your Mac.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products
+
+**[Lists & Notes](https://tiongcreative.com.au/list-manager/)** — Private, offline note taking & to-do list manager. Markdown editor with live preview, PDF/Word export, categories, and optional AI writing tools.
+
+**[Mindful Reader](https://tiongcreative.com.au/mindful-reader/)** — A calm RSS feed reader. 3 articles at a time, impact ratings to track what matters, no unread pressure. 
+
+**[Content Checker Pro](https://tiongcreative.com.au/content-checker-pro/)** — AI-powered content & SEO audits. Score pages, benchmark competitors, export branded PDF reports.
+
+## Links
+
+- [tiongcreative.com.au](https://tiongcreative.com.au) — all products
+- [davidtiong.com](https://www.davidtiong.com) — ideas, writing & photography
+- [Gumroad](https://tiongcreative.gumroad.com) — purchase
