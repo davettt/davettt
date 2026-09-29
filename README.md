@@ -37,4 +37,4 @@ In my spare time, I'm building macOS desktop apps under [Tiong Creative](https:/
 - [Membership](https://tiongcreative.com.au/membership/): every app for $49 USD a year
 - [help.tiongcreative.com.au](https://help.tiongcreative.com.au): how-to guides
 - [davidtiong.com](https://www.davidtiong.com): ideas, writing & photography
-- [Gumroad](https://tiongcreative.gumroad.com): purchase
+- [Unsplash](https://unsplash.com/@dave_t): photography
